@@ -1,5 +1,5 @@
 //Sheri Evangelene
-//I decided to use a switch then it kind of got away from me and started to turn into a whole management system lol 
+//I decided to use a switch then it kind of got away from me and started to turn into a whole management system lol I stopped before all the validations
 
 //False=available, True=reserved
 // starts as false
